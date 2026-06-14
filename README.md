@@ -5,7 +5,7 @@ El proyecto es una API hecha en Spring java con JPA
 ### 1. Registrar adoptante
 `POST /api/adoptantes`
 
-![[Pasted image 20260613230001.png]]
+![imagen1]([Pasted image 20260613230001.png](https://github.com/ANGEL-LIRA-DEV/veterinaria/blob/master/Pasted%20image%2020260613230001.png))
 
 ### 2. Listar adoptantes
 `GET /api/adoptantes`
